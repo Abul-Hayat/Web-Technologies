@@ -3,7 +3,7 @@
 }
 
 table {
-    width: 40%;
+    width: 70%;
     margin: auto;
 }
 
@@ -13,7 +13,7 @@ h2 {
 
 form {
     background-color: rgb(194, 241, 200);
-    border-radius: 22px;
+    border-radius: 45px;
     width: 50%;
     margin: auto;
     height: 350px;
@@ -36,14 +36,15 @@ input {
 }
 
 .msg {
-    height: 80px;
+    height: 40px;
 }
 
 button {
-    margin: 5 0 0 110;
+   
     padding: 8 30 8 30;
     border-radius: 10px;
     border: 0px;
-    font-size: larger;
+    margin: 5 10 0 110;
     background-color: white;
+    font-size: larger;
 }
